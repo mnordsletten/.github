@@ -3,6 +3,3 @@ labels:
   - name: feature23
     color: 336699
     description: Cool stuff
-  - name: coolio
-    color: f41da9
-    description: New thing
