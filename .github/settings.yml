@@ -1,6 +1,6 @@
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: feature2
+  - name: feature23
     color: 336699
     description: Cool stuff
   - name: coolio
