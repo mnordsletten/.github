@@ -11,4 +11,5 @@ change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
   ## Changes
   There are some changes made
+  Now lets see
   $CHANGES
